@@ -12,7 +12,7 @@ This project has two branches:
 ## How to reproduce bug?
 1. Download repository
 2. Open the project in Unity 6.7
-3. Build to the Meta Quest.
+3. Build to the Meta Quest (ensure that you have the Android platform target)
 4. Record the FPS using OVR Metrics or another tool.
 5. Switch branch to `2022.3.4f`
 6. Build to the Meta Quest.
